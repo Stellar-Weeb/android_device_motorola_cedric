@@ -17,7 +17,7 @@ $(call inherit-product, vendor/stellar/config/common_full_phone.mk)
 PRODUCT_NAME := stellar_cedric
 PRODUCT_DEVICE := cedric
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := Moto G (5)
+PRODUCT_MODEL := ayuDroid G (5)
 PRODUCT_MANUFACTURER := motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
